@@ -53,24 +53,23 @@ global.prems = ['51920001639'];
 global.BASE_API_DELIRIUS = "https://deliriussapi-oficial.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = '𝐍𝐀𝐒𝐀 𝐁𝐎𝐓';
+global.wm = '𝐍𝐀𝐒𝐀 𝐁𝐎𝐓';
+global.titulowm = '𝐍𝐀𝐒𝐀 𝐁𝐎𝐓';
+global.titulowm2 = `𝐍𝐀𝐒𝐀 𝐁𝐎𝐓`
+global.igfg = '𝐍𝐀𝐒𝐀 𝐁𝐎𝐓';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
-/*global.imagen1 = fs.createReadStream('./src/assets/images/menu/languages/es/menu.png');
-global.imagen2 = fs.createReadStream('./src/assets/images/menu/languages/pt/menu.png');
-global.imagen3 = fs.createReadStream('./src/assets/images/menu/languages/fr/menu.png');
-global.imagen4 = fs.createReadStream('./src/assets/images/menu/languages/en/menu.png');
-global.imagen5 = fs.createReadStream('./src/assets/images/menu/languages/ru/menu.png');*/
-
-global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
-global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/menu.png');
-global.imagen3 = fs.readFileSync('./src/assets/images/menu/languages/fr/menu.png')
-global.imagen4 = fs.readFileSync('./src/assets/images/menu/languages/en/menu.png')
-global.imagen5 = fs.readFileSync('./src/assets/images/menu/languages/ru/menu.png')
+global.imagen1 = fs.readFileSync('./Menu2.jpg');
+global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
+global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
+global.imagen4 = fs.readFileSync('./Menu.png');
+global.imagen5 = fs.readFileSync('./src/+18.jpg');
+global.imagen6 = fs.readFileSync('./Menu3.png');
+global.imagen7 = fs.readFileSync('./src/menu_pt.png');
+global.imagen8 = fs.readFileSync('./src/menu_fr.png')
+global.imagen9 = fs.readFileSync('./src/menu_en.png')
+global.imagen10 = fs.readFileSync('./src/menu_ru.png')
 
 global.mods = [];
 
@@ -83,16 +82,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.wm2 = `${dia} ${fecha}\n𝐍𝐀𝐒𝐀 𝐁𝐎𝐓`;
+global.gt = '𝐍𝐀𝐒𝐀 𝐁𝐎𝐓';
+global.mysticbot = '𝐍𝐀𝐒𝐀 𝐁𝐎𝐓';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.md = 'https://chat.whatsapp.com/CWyGOektmfmDosLeXoPF60';
+global.mysticbot = 'https://chat.whatsapp.com/CWyGOektmfmDosLeXoPF60';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.nomorown = '51978144868';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
@@ -109,7 +108,7 @@ global.comienzo = '• • ◕◕════';
 global.fin = '════◕◕ • •';
 global.botdate = `*[ 📅 ] Fecha:*  ${moment.tz('America/Mexico_City').format('DD/MM/YY')}`;
 global.bottime = `*[ ⏳ ] Hora:* ${moment.tz('America/Mexico_City').format('HH:mm:ss')}`;
-global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./src/assets/images/menu/languages/es/menu.png')}}};
+global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.png')}}};
 global.multiplier = 99;
 global.flaaa = [
   'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
