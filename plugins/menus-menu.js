@@ -44,23 +44,61 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃➤ 🔴 ${usedPrefix}disable*
   ╰━━━━━━━━━━━━
  
-  ╭───── • ◆ • ─────╮
-  ├❧ _${usedPrefix}terminosycondiciones_
-  ├❧ _${usedPrefix}grupos_
-  ├❧ _${usedPrefix}estado_
-  ├❧ _${usedPrefix}infobot_
-  ├❧ _${usedPrefix}speedtest_
-  ├❧ _${usedPrefix}donar_
-  ├❧ _${usedPrefix}owner_
-  ├❧ _${usedPrefix}script_
-  ├❧ _${usedPrefix}reporte *<txt>*_
-  ├❧ _${usedPrefix}join *<wagp_url>*_
-  ├❧ _${usedPrefix}fixmsgespera_
-  ├❧ _bot_ (sin prefijo)
-  ╰───── • ◆ • ─────╯
+╭━〔 ℹ️ 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 ℹ️〕
+*┃➤ ${usedPrefix}grupos*
+*┃➤ ${usedPrefix}estado*
+*┃➤ ${usedPrefix}infobot*
+*┃➤ ${usedPrefix}speedtest*
+*┃➤ ${usedPrefix}donar*
+*┃➤ ${usedPrefix}owner*
+*┃➤ ${usedPrefix}script*
+*┃➤ ${usedPrefix}reporte <txt>*
+*┃➤ ${usedPrefix}join <wagp_url>*
+*┃➤ ${usedPrefix}fixmsgespera*
+*┃➤ bot (sin prefijo)*
+╰━━━━━━━━━━━━
 
-  ${tradutor.texto1[12]}
- 
+
+╭━〔 ⚙️ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐂𝐈𝐎𝐍 ⚙️〕
+*┃➤ ${usedPrefix}enable restrict*
+*┃➤ ${usedPrefix}disable restrict*
+* ${usedPrefix}enable autoread*
+*┃➤ ${usedPrefix}disable autoread*
+*┃➤ ${usedPrefix}enable antispam*
+*┃➤ ${usedPrefix}disable antispam*
+*┃➤ ${usedPrefix}enable anticall*
+*┃➤ ${usedPrefix}disable anticall*
+*┃➤ ${usedPrefix}enable modoia*
+*┃➤ ${usedPrefix}disable modoia*
+*┃➤ ${usedPrefix}enable audios_bot*
+*┃➤ ${usedPrefix}disable audios_bot*
+*┃➤ ${usedPrefix}enable antiprivado*
+*┃➤ ${usedPrefix}disable antiprivado*
+╰━━━━━━━━━━━━
+
+
+╭━〔 🎮 𝐌𝐎𝐃𝐎𝐒 𝐃𝐄 𝐉𝐔𝐄𝐆𝐎 🎮 〕
+*┃➤ ${usedPrefix}Fem4*
+*┃➤ ${usedPrefix}Fem6*
+*┃➤ ${usedPrefix}FemInterna4*
+*┃➤ ${usedPrefix}FemInterna6*
+*┃➤ ${usedPrefix}Masc4*
+*┃➤ ${usedPrefix}Masc6*
+*┃➤ ${usedPrefix}MascInterna4*
+*┃➤ ${usedPrefix}MascInterna6*
+*┃➤ ${usedPrefix}Mixto4*
+*┃➤ ${usedPrefix}Mixto6*
+*┃➤ ${usedPrefix}MixtoInterna4*
+*┃➤ ${usedPrefix}MixtoInterna6*
+*┃➤ ${usedPrefix}apos*
+*┃➤ ${usedPrefix}mapa*
+*┃➤ ${usedPrefix}Ficha / Formulario Reclutamiento*
+*┃➤ ${usedPrefix}Nexterra*
+*┃➤ ${usedPrefix}Bermuda*
+*┃➤ ${usedPrefix}Kalahary*
+*┃➤ ${usedPrefix}Alpes*
+*┃➤ ${usedPrefix}AgendaSemanal*
+╰━━━━━━━━━━━━
   ╭───── • ◆ • ─────╮
   ├❧ _${usedPrefix}serbot --code_
   ├❧ _${usedPrefix}serbot_
