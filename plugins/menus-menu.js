@@ -339,8 +339,38 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ ${usedPrefix}setpp <img>*
 *┃➤ ${usedPrefix}admins <txt>*
 ╰━━━━━━━━━━━━
- 
 
+
+╭━〔 👑 𝐅𝐔𝐍𝐂𝐈𝐎𝐍𝐄𝐒 𝐏𝐀𝐑𝐀 𝐎𝐖𝐍𝐄𝐑𝐒 👑 〕
+*┃➤ 💎 ${usedPrefix}join enlace*
+*┃➤ 💎 ${usedPrefix}unete enlace*
+*┃➤ 💎 ${usedPrefix}dardiamantes cantidad*
+*┃➤ 💎 ${usedPrefix}darxp cantidad*
+*┃➤ 💎 ${usedPrefix}dargatacoins cantidad*
+*┃➤ 💎 ${usedPrefix}addprem | userpremium @tag cantidad*
+*┃➤ 💎 ${usedPrefix}addprem2 | userpremium2 @tag cantidad*
+*┃➤ 💎 ${usedPrefix}addprem3 | userpremium3 @tag cantidad*
+*┃➤ 💎 ${usedPrefix}addprem4 | userpremium4 @tag cantidad*
+*┃➤ 💎 _${usedPrefix}idioma | language*
+*┃➤ 💎 _${usedPrefix}cajafuerte*
+*┃➤ 💎 ${usedPrefix}comunicar | broadcastall | bc texto*
+*┃➤ 💎 ${usedPrefix}broadcastchats | bcc texto*
+*┃➤ 💎 ${usedPrefix}comunicarpv texto*
+*┃➤ 💎 ${usedPrefix}broadcastgc texto*
+*┃➤ 💎 ${usedPrefix}comunicargrupos texto*
+*┃➤ 💎 _${usedPrefix}borrartmp | cleartmp*
+*┃➤ 💎 ${usedPrefix}delexp @tag*
+*┃➤ 💎 ${usedPrefix}deloptimuscoins @tag*
+*┃➤ 💎 ${usedPrefix}deldiamantes @tag*
+*┃➤ 💎 _${usedPrefix}reiniciar | restart*
+*┃➤ 💎 _${usedPrefix}Actualizar | update*
+*┃➤ 💎 ${usedPrefix}addprem | +prem @tag*
+*┃➤ 💎 ${usedPrefix}delprem | -prem @tag*
+*┃➤ 💎 _${usedPrefix}listapremium | listprem*
+*┃➤ 💎 ${usedPrefix}añadirdiamantes @tag cantidad*
+*┃➤ 💎 ${usedPrefix}añadirxp @tag cantidad*
+*┃➤ 💎 ${usedPrefix}añadircoins @tag cantidad*
+╰━━━━━━━━━━━━
     let pp
     // Nouvelles images de menu disponibles 
     if (idioma == 'es') {
