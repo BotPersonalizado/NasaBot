@@ -77,6 +77,17 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 ╰━━━━━━━━━━━━
 
 
+╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
+ *┃➤ 🗺️ ${usedPrefix}menuff*
+ *┃➤ 🗺️ ${usedPrefix}bermuda*
+ *┃➤ 🗺️ ${usedPrefix}kalahari*
+ *┃➤ 🗺️ ${usedPrefix}alpes*
+ *┃➤ 🗺️ ${usedPrefix}purgatorio*
+ *┃➤ 🗺️ ${usedPrefix}nexterra*
+ *┃➤ 📋 ${usedPrefix}agendasemanal*
+╰━━━━━━━━━━━━
+
+
 ╭━〔 🎮 𝐌𝐎𝐃𝐎𝐒 𝐃𝐄 𝐉𝐔𝐄𝐆𝐎 🎮 〕
 *┃➤ ${usedPrefix}Fem4*
 *┃➤ ${usedPrefix}Fem6*
@@ -98,6 +109,16 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ ${usedPrefix}Kalahary*
 *┃➤ ${usedPrefix}Alpes*
 *┃➤ ${usedPrefix}AgendaSemanal*
+╰━━━━━━━━━━━━
+
+
+╭━〔 ⚔️ *BUSCAR VS* 🔱 〕
+ *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
+ *┃➤ ⚔️ ${usedPrefix}bsmsac*
+ *┃➤ ⚓ ${usedPrefix}buscarvsfem*
+ *┃➤ ✨ ${usedPrefix}bsfem*
+ *┃➤ 📍 ${usedPrefix}buscarvsmixto*
+ *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
 ╰━━━━━━━━━━━━
   ╭───── • ◆ • ─────╮
   ├❧ _${usedPrefix}serbot --code_
