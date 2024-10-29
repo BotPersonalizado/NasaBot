@@ -17,7 +17,7 @@ say('𝐍𝐀𝐒𝐀 𝐁𝐎𝐓', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado para ti mi amol`, {
+say(`Conectame papi`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
